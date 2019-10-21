@@ -1,0 +1,11 @@
+.invalid{
+    border-color: #F47C7C;
+}
+
+.empty{
+    border-color: #F7F48B;
+}
+
+.verified{
+    border-color: #A1DE93;;
+}
